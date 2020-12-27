@@ -2,6 +2,7 @@
 Please indicate the source and references as follows when using the code, thank you.
 ``` 
 Gu Y., Li L., Zhang Y. Robust Android Malware Detection Based on Attributed Heterogenous Graph Embedding. In: Frontiers in Cyber Security(FCS), pp. 432-446, 2020. Communications in Computer and Information Science, vol 1286. Springer, Singapore.
+``` 
 
 for train model, run: 
 ``` 
